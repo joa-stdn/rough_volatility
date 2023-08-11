@@ -17,4 +17,5 @@ The final report is available under the ```pdf``` directory.
 
 ### Main references
 [1] Jim Gatheral Christian Bayer, Peter Friz, *Pricing under rough volatility*, 2015
+
 [2] Omar El Euch, Eduardo Abi Jaber, *Multi-factor approximation of rough volatility models*, 2018
